@@ -1,6 +1,6 @@
 # Symbolic Regression by Eimantas Survila
 
-This repository entails a symboli regression library with testing suite. This library is built on the [genetic algoritm library](https://github.com/Survila-Dev/Genetic-Algorithm-02) which was also built by Eimantas Survila.
+This repository entails a symbolic regression library with testing suite. This library is built on the [genetic algoritm library](https://github.com/Survila-Dev/Genetic-Algorithm-02) which was also built by Eimantas Survila.
 
 ## What is symbolic regression?
 
