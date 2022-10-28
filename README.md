@@ -4,7 +4,7 @@ This repository entails a symboli regression library with testing suite. This li
 
 ## What is symbolic regression?
 
-Symbolic regression is [regressive](https://en.wikipedia.org/wiki/Regression_analysis) analysis which searches the space of mathematical expressions which could depict the given data set in an accurate and simple manner. The mathematical expression is modelled as a tree structure and a [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) is applied to optimize such tree structure according to their fitness to model the data set.
+Symbolic regression is a [regressive](https://en.wikipedia.org/wiki/Regression_analysis) analysis which searches the space of mathematical expressions which could depict the given data set in an accurate and simple manner. The mathematical expression is modelled as a tree structure and a [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) is applied to optimize such tree structure according to their fitness to model the data set.
 
 Tree structure representation of the mathematical expression (Wikipedia):
 
