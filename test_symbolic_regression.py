@@ -333,7 +333,7 @@ class GenAlgTest(unittest.TestCase):
 # %%
 
 
-class TestSynbolicRegression(unittest.TestCase):
+class TestSymbolicRegression(unittest.TestCase):
 
     # %%
     def test_tree_class_call_binary_and_unary(self):
